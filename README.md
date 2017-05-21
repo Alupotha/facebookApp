@@ -12,6 +12,10 @@ Create an web app using any lanugage to login in to face book.
 
 Once you click countinue with facebook, then face book said we recive some app and it can access our fb details (profile pictures, Friend List, Timeline post etc.).
 
+![capture7](https://cloud.githubusercontent.com/assets/18233358/26285742/0afb3232-3e73-11e7-8218-2bee4d71621f.PNG)
+
+So we without edit our fb details, then third parties can access it.
+
 
 
 
