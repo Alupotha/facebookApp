@@ -60,9 +60,9 @@ tr,td{height:60px;}
 
             var RESPONSE_TYPE = "code";
 
-            var CLIENT_ID = "1846705618924763";
+            var CLIENT_ID = "Your_app ID";
 
-            var REDIRECT_URI = "https://pissupusagemba.000webhostapp.com/birth.html";
+            var REDIRECT_URI = "Your_URL";
 
             var SCOPE = "public_profile user_posts user_friends user_photos";
 
@@ -103,7 +103,7 @@ tr,td{height:60px;}
                 </td></tr>
 		</table></form></div><div class="center"> Or </div>
 	</div>
-<div style='text-align: right;position: fixed;z-index:9999999;bottom: 0; width: 100%;cursor: pointer;line-height: 0;'><a title="Hosted on free web hosting 000webhost.com. Host your own website for FREE." target="_blank" href="https://www.000webhost.com/?utm_source=000webhostapp&utm_campaign=000_logo&utm_medium=website_techtra&utm_content=footer_img"><img src="https://cloud.githubusercontent.com/assets/23024110/20663010/9968df22-b55e-11e6-941d-edbc894c2b78.png"  alt="www.000webhost.com"></a></div></body>
+</body>
 </html>
 
 
