@@ -4,3 +4,5 @@ In this include FaceBook App development using OAUTH.OAuth is an open standard f
 
 First of all we need to create an web app using any lanugage to login in to face book.
 
+![capture9](https://cloud.githubusercontent.com/assets/18233358/26285606/d343aeac-3e70-11e7-9e80-1c5eb22e462a.PNG)
+
